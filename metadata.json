@@ -1,0 +1,6 @@
+{
+  "name": "Artisan Hub",
+  "description": "Ghana's verified artisan marketplace connecting clients with trusted local plumbers, electricians, masons, carpenters, and technicians.",
+  "requestFramePermissions": ["microphone", "geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
